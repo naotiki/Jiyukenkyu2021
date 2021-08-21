@@ -1,4 +1,3 @@
-# 自由研究2021
 # 強化学習でパックマンをプレイさせる
 [Unity Project](ml-agents/Project)
 
