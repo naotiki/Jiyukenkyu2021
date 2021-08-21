@@ -1,0 +1,14 @@
+﻿ごみ箱/
+.idea/
+desktop.ini
+/ml-agents/*
+
+!/ml-agents/Project
+!/ml-agents/Pacman
+!/ml-agents/Pacman_Linux
+!/ml-agents/results
+!/ml-agents/config
+!/ml-agents/*.ps1
+
+
+
