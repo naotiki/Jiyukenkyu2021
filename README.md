@@ -2,7 +2,7 @@
 ## リンク
 [Unityのプロジェクト](ml-agents/Project)
 
-[動画](Movies.md)
+[学習結果の動画](Movies.md)
 
 [Google Document](https://docs.google.com/document/d/1foN7ebwxkAJCYK8dvQsovrjAcATGQR-m7iK17SxDwik/edit?usp=sharing)
 
