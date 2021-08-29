@@ -1,4 +1,12 @@
 # 動画
-## 最高記録 Step 1749967
-https://user-images.githubusercontent.com/52840507/130314712-37963540-0d8e-48db-b410-563fb924bf50.mp4
+## AIの最高記録 225個
+
+https://user-images.githubusercontent.com/52840507/131237123-eb6b6240-0882-4b0e-8f68-ddd60c82b23e.mp4
+
+逆転のときは積極的に敵に向かっています。
+あと30個!
+約88%取れています。
+
+
+
 
