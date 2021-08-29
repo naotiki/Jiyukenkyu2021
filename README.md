@@ -1,12 +1,11 @@
 # 強化学習でパックマンをプレイさせる
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BV-NqxhN6CD7BcmE3mY0QqYGQuepyKDs?usp=sharing)
 ## リンク
 [Unityのプロジェクト](ml-agents/Project)
 
 [学習結果の動画](Movies.md)
 
 [Google Document](https://docs.google.com/document/d/1foN7ebwxkAJCYK8dvQsovrjAcATGQR-m7iK17SxDwik/edit?usp=sharing)
-
-[Google Colab](https://colab.research.google.com/drive/1BV-NqxhN6CD7BcmE3mY0QqYGQuepyKDs?usp=sharing)
 
 ## 環境
 ML-Agents Release 18
