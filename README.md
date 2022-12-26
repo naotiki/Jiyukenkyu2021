@@ -1,4 +1,4 @@
-# 強化学習でパックマンをプレイさせる
+# 機械学習でパッ○マンをプレイさせる
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BV-NqxhN6CD7BcmE3mY0QqYGQuepyKDs?usp=sharing)
 ## リンク
 [Unityのプロジェクト](ml-agents/Project)
